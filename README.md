@@ -21,7 +21,7 @@
 
 ### 💼 Projects Highlights
 
-🚀 [**AI Resume Screening Tool**](https://github.com/Vivek-vp123)  
+🚀 [**AI Resume Screening Tool**]([https://github.com/Vivek-vp123](https://github.com/Vivek-vp123/Resume-Screening-Tool.git))  
 Python-based parser that extracts structured info from resumes using NLP & ML.
 
 📱 [**Rent Manager App**](https://github.com/Vivek-vp123/Rent-Manager-Android-App)  
